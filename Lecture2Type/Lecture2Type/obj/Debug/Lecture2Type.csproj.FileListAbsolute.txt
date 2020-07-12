@@ -1,0 +1,7 @@
+D:\Web\Training\SoftServe\ClassWork\Lecture2Type\Lecture2Type\obj\Debug\Lecture2Type.csprojAssemblyReference.cache
+D:\Web\Training\SoftServe\ClassWork\Lecture2Type\Lecture2Type\obj\Debug\Lecture2Type.csproj.CoreCompileInputs.cache
+D:\Web\Training\SoftServe\ClassWork\Lecture2Type\Lecture2Type\bin\Debug\Lecture2Type.exe.config
+D:\Web\Training\SoftServe\ClassWork\Lecture2Type\Lecture2Type\bin\Debug\Lecture2Type.exe
+D:\Web\Training\SoftServe\ClassWork\Lecture2Type\Lecture2Type\bin\Debug\Lecture2Type.pdb
+D:\Web\Training\SoftServe\ClassWork\Lecture2Type\Lecture2Type\obj\Debug\Lecture2Type.exe
+D:\Web\Training\SoftServe\ClassWork\Lecture2Type\Lecture2Type\obj\Debug\Lecture2Type.pdb

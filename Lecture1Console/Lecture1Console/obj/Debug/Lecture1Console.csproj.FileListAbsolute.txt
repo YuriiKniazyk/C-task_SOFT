@@ -1,0 +1,7 @@
+D:\Web\training\C#\Lecture1Console\Lecture1Console\bin\Debug\Lecture1Console.exe.config
+D:\Web\training\C#\Lecture1Console\Lecture1Console\bin\Debug\Lecture1Console.exe
+D:\Web\training\C#\Lecture1Console\Lecture1Console\bin\Debug\Lecture1Console.pdb
+D:\Web\training\C#\Lecture1Console\Lecture1Console\obj\Debug\Lecture1Console.csprojAssemblyReference.cache
+D:\Web\training\C#\Lecture1Console\Lecture1Console\obj\Debug\Lecture1Console.csproj.CoreCompileInputs.cache
+D:\Web\training\C#\Lecture1Console\Lecture1Console\obj\Debug\Lecture1Console.exe
+D:\Web\training\C#\Lecture1Console\Lecture1Console\obj\Debug\Lecture1Console.pdb
