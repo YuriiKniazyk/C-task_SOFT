@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CW10UnitTesting", "CW10UnitTesting\CW10UnitTesting.csproj", "{4CF2507A-588B-4358-9FCE-23DEBDCBE80A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestPetimeter", "UnitTestPetimeter\UnitTestPetimeter.csproj", "{437CEB63-9B16-4BF5-B0EB-F015B85D2B1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CF2507A-588B-4358-9FCE-23DEBDCBE80A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CF2507A-588B-4358-9FCE-23DEBDCBE80A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CF2507A-588B-4358-9FCE-23DEBDCBE80A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CF2507A-588B-4358-9FCE-23DEBDCBE80A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{437CEB63-9B16-4BF5-B0EB-F015B85D2B1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{437CEB63-9B16-4BF5-B0EB-F015B85D2B1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{437CEB63-9B16-4BF5-B0EB-F015B85D2B1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{437CEB63-9B16-4BF5-B0EB-F015B85D2B1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73D840BD-D619-4233-BB74-C63576715C08}
+	EndGlobalSection
+EndGlobal
